@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Latest Stablecoin News</title>
+    <link>https://www.example.com</link>
+    <description>Stay updated with the most recent news and updates on stablecoins.</description>
+    <language>en-US</language>
+    <lastBuildDate>Thu, 21 Nov 2024 14:49:59 +0000</lastBuildDate>
+
+    <item>
+      <title>Crypto Companies Eye Stock Market after Trump's Victory</title>
+      <link>https://cincodias.elpais.com/criptoactivos/2024-11-11/crypto-companies-consider-going-public-in-a-more-regulated-environment-after-trump-victory.html</link>
+      <description>The recent win of Donald Trump and the Federal Reserve's rate cuts have boosted crypto markets, with Bitcoin reaching a new all-time high of $80,900. Companies like Circle and Kraken are considering IPOs, while the EU's MiCA regulation could further legitimize the crypto sector in Europe.</description>
+      <pubDate>Mon, 11 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cincodias.elpais.com/criptoactivos/2024-11-11/crypto-companies-consider-going-public-in-a-more-regulated-environment-after-trump-victory.html</guid>
+    </item>
+
+    <item>
+      <title>Crypto Giants Embrace Regulation to Counter Banks' Expansion</title>
+      <link>https://cincodias.elpais.com/criptoactivos/2024-11-14/crypto-giants-turn-to-regulation-to-withstand-banks-advancement.html</link>
+      <description>Major crypto platforms like Binance are shifting toward regulation to secure legitimacy and fend off competition from traditional financial institutions. This shift signals a more mature and strategic approach within the crypto industry.</description>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cincodias.elpais.com/criptoactivos/2024-11-14/crypto-giants-turn-to-regulation-to-withstand-banks-advancement.html</guid>
+    </item>
+
+    <item>
+      <title>Speculation Boosts XRP after Trump's Victory</title>
+      <link>https://cincodias.elpais.com/criptoactivos/2024-11-19/speculation-drives-xrp-up-120-following-trump-win.html</link>
+      <description>Ripple's XRP surged 120% since November 5, 2024, amid speculation about a more lenient regulatory environment in the US. The rise has fueled talks of a potential XRP ETF and a new stablecoin launch.</description>
+      <pubDate>Tue, 19 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://cincodias.elpais.com/criptoactivos/2024-11-19/speculation-drives-xrp-up-120-following-trump-win.html</guid>
+    </item>
+
+  </channel>
+</rss>
